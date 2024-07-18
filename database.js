@@ -4,7 +4,7 @@ const connection = db.createConnection({
   host: "localhost",
   user: "root",
   password: "root",
-  database: "shop",
+  database: "login",
 });
 
 function connectDataBase() {
